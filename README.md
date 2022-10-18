@@ -10,7 +10,7 @@ I have been learning to code for two years after changing career and i started w
 *   ✉️  You can contact me at [judegr8@yahoo.com](mailto:judegr8@yahoo.com)
 *   🧠  I'm learning Reactjs
 *   🤝  I'm open to collaborating on Interesting projects
-*   ⚡  I'm equally a wordpress newbie developer<a href="https://www.twitter.com/Jude_Nnanna" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm equally a wordpress newbie developer<a href="https://www.twitter.com/Judegr80" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Judegr80?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/NNANNAJUDE" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/NNANNAJUDE?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
